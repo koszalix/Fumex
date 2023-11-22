@@ -3,15 +3,15 @@ OpenSource fume extractor, designed for electronics laboratories
 
 # Project repositories
 [Fumex Driver](https://github.com/koszalix/fumexDriver) - Main fan controller   
-[Fumex Mux](https://github.com/koszalix/fumexMux) - Additional mux, for 3 soldering station stands   
-[Fumex 858]() - *Comming soon* - Detection for Zhaoxin/WEP 858 rework station  
+[Fumex Mux](https://github.com/koszalix/fumexMux) - Additional mux, for 3 external soldering station stands   
+[Fumex 858]() - *Comming soon* - Detector for Zhaoxin/WEP 858 rework station  
 
 # Features
 - PWM regulation from 5% to 95% 
 - Reverse polarity and over voltage protection
-- Up to 2A fan can be supported 
 - Soldering iron put down detection 
 - 12V fans support 
+- Up to 24W fans can be powered from the board
 
 # Using Fumex standalone
 To use Fumex standalone, just connect power supply, power switch and fan as presented at following diagram, you can 
