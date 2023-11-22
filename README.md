@@ -17,7 +17,7 @@ OpenSource fume extractor, designed for electronics laboratories
 To use Fumex standalone, just connect power supply, power switch and fan as presented at following diagram, you can 
 also add power indication led if you wish (the 680R resistor is embeded on the Fumex board).
 
-![Fumex standalone connection diagram](images/standalone_connection.jpg)
+![Fumex standalone connection diagram](images/standalone_connection.png)
 
 Now you can use potentiometer to regulate fan speed. Enjoy! 
 
