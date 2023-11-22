@@ -22,12 +22,15 @@ also add power indication led if you wish (the 680R resistor is embeded on the F
 Now you can use potentiometer to regulate fan speed. Enjoy! 
 
 # Using Fumex with soldering station 
+The Fumex Driver can detect when soldering handle is putted down into stand, when such event occurs fan will be sping for about 30 seconds and then it will be switched off.   
 
+Connection diagram is presented bellow 
+![Fumex soldeing station connection](images/soldeing_station_connection.png)
 
 # Fumex Mux, add more soldering stations 
 
 # Sugested mechanical design
-The Fumex board is designed for [Kradex Z5] case, also cable managments cutsouts are avaialable on boards. 
+The Fumex board is designed for [Kradex Z5](https://www.kradex.com.pl/product/enclosures_with_side_panels/z5_ps?lang=en) case, also cable managments cutsouts are avaialable on boards. 
 Proposed mechanical design is presented on picture bellow.
 
 # Licensing
