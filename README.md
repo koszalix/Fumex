@@ -24,8 +24,11 @@ Now you can use potentiometer to regulate fan speed. Enjoy!
 # Using Fumex with soldering station 
 
 
-# Fumex Mux add more soldering stations 
+# Fumex Mux, add more soldering stations 
 
 # Sugested mechanical design
 The Fumex board is designed for [Kradex Z5] case, also cable managments cutsouts are avaialable on boards. 
-Proposed mechanical design is presented on picture bellow. 
+Proposed mechanical design is presented on picture bellow.
+
+# Licensing
+This project is published under the Apache-2.0 license.
