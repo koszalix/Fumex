@@ -25,7 +25,7 @@ Now you can use potentiometer to regulate fan speed. Enjoy!
 The Fumex Driver can detect when soldering handle is putted down into stand, when such event occurs fan will be sping for about 30 seconds and then it will be switched off.   
 
 Connection diagram is presented bellow 
-![Fumex soldeing station connection](images/soldering_station_connection.png)
+![Fumex soldeing station connection](/images/soldering_station_connection.png)
 
 # Fumex Mux, add more soldering stations 
 
